@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Viciicodes
+- 👋 Hi, I’m Victor Kipchumba
 - 👀 I’m interested in web and app development 
 - 🌱 I’m currently learning python and javascript 
 - 💞️ I’m looking to collaborate on php projects
