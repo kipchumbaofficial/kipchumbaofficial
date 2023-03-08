@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and app development 
 - 🌱 I’m currently learning python and javascript 
 - 💞️ I’m looking to collaborate on php projects
-- 📫 Reach me on twitter @Viciicodes 
+- 📫 Reach me on twitter @notkipchumba
 
 <!---
 Viciicodes/Viciicodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
