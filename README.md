@@ -9,19 +9,20 @@ Web technologies: HTML, CSS, React, Node.js, Express
 Databases: MySQL
 Version control: Git, GitHub
 Agile development methodologies
+
 Education
 --------
 ALX Africa, Nairobi, Kenya
 Full Stack Web Development Program (In progress)
 
-Bachelor of Science in Computer Science, University of Nairobi, Kenya
-(Graduated in 2021)
+Bachelor of Science,Moi University, Kenya
 
 Contact Information
 -------------------
 twitter: twitter.com/notkipchumba
 GitHub: github.com/kipchumbaofficial
 LinkedIn: linkedin.com/in/kipchumbaofficial
+
 Interests
 ---------
 Apart from coding, I enjoy reading, traveling, and playing video games. I am also passionate about contributing to open source projects and constantly learning and growing as a developer.
