@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_ikipchumba" target="blank"><img src="https://img.shields.io/twitter/follow/_ikipchumba?logo=twitter&style=for-the-badge" alt="_ikipchumba" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C**
+- 🌱 I’m currently learning **Python, C, Linux, RegEx**
 
 - 💬 Ask me about **C, Python, Linux**
 
