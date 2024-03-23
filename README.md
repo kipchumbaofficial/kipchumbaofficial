@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Victor Kipchumba</h1>
-<h3 align="center">Kenyan Software Engineering Student at ALX Cohort 18</h3>
+<h3 align="center">Kenyan Software Engineering Student at ALX Cohort 20</h3>
 <img align="rigth" alt="Coding" width="" src="https://miro.medium.com/v2/resize:fit:720/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kipchumbaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="kipchumbaofficial" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/_ikipchumba" target="blank"><img src="https://img.shields.io/twitter/follow/_ikipchumba?logo=twitter&style=for-the-badge" alt="_ikipchumba" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C, Linux, RegEx**
+- 🌱 I’m currently learning **Python, C, Linux, RegEx, JavaScript, SQL & DevOps**
 
-- 💬 Ask me about **C, Python, Linux**
+- 💬 Ask me about **C, Python, Linux, JavaScript**
 
-- 📫 How to reach me **morale.softwaredev@gmail.com**
+- 📫 How to reach me **kipchumba.softwaredev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_ikipchumba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ikipchumba" height="30" width="40" /></a>
+<a href="https://twitter.com/1kipchumba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1kipchumba" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kipchumbaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kipchumbaofficial" height="30" width="40" /></a>
 </p>
 
