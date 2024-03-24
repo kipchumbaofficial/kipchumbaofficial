@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, C, Linux, RegEx, JavaScript, SQL & DevOps**
 
-- 💬 Ask me about **C, Python, Linux, JavaScript**
+- 💬 Ask me about **C, Python, Linux, JavaScript, SQL**
 
 - 📫 How to reach me **kipchumba.softwaredev@gmail.com**
 
